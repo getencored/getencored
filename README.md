@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @getencored
+- 👋 Hi, I’m GetEncored
 - 👀 I’m interested in medicinal chemistry, drug discovery and data analysis.
 - 🌱 I’m currently learning python and updating my knowledge on spreadsheets. I also attempt to play around Golang.
 - 💞️ I’m looking to collaborate on innovative research centered on bioanalysis and drug discovery.
